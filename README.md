@@ -1,11 +1,12 @@
-<h2> Video Calling </h2> -Jayaram <br>
+# Video Calling -Jayaram
 A simple video chat app using node.js , socket.io and webrtc. <br>
 
-Features: <br>
-1.MULTI-USER  <br>
-2.TEXT CHAT (with current time) <br>
-3.TOGGLING OF VIDEO STREAM <br>
-4.TOGGLING OF AUDIO STREAM (mute & unmute) <br>
-5.TOGGLING OF CHAT VIEW <br>
-6.ADD PARTICIPANTS WITH ROOM LINK <br>
-7.CHAT BEFORE AND AFTER VIDEO CALL <br>
+🚀 Live App: https://jayaram-video-calling.herokuapp.com/
+
+### Features:
+- Text chat (with current time).
+- Toggling of video stream.
+- Toggling of audio stream (mute & unmute).
+- Toggling of chat view.
+- Add maximum of 4 participants with room link.
+- Chat before and after video.
